@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
+<defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="#f6f7f9"/><path d="M0 0H10V10H0ZM10 10H20V20H10Z" fill="#eef0f3"/></pattern></defs>
+<rect width="960" height="320" rx="18" fill="#18212e"/>
+<text x="48" y="60" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600">DieChuang · Window Layers</text>
+<text x="48" y="94" fill="#b8c8d7" font-family="Segoe UI,Arial,sans-serif" font-size="17">Drag. Order. Pin.  A transparent Windows window manager.</text>
+<rect x="48" y="120" width="630" height="166" rx="9" fill="url(#grid)" stroke="#aebac8"/>
+<g fill="#3d4b5a"><circle cx="68" cy="135" r="2"/><circle cx="74" cy="135" r="2"/><circle cx="68" cy="141" r="2"/><circle cx="74" cy="141" r="2"/><circle cx="68" cy="147" r="2"/><circle cx="74" cy="147" r="2"/></g>
+<text x="530" y="144" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="white" stroke="black" stroke-width="2" paint-order="stroke">Lock order</text>
+<g><rect x="70" y="166" width="30" height="30" rx="6" fill="#008477"/><path d="M77 173h16v5H77zm0 9h16v7H77z" fill="white"/>
+<rect x="122" y="166" width="30" height="30" rx="5" fill="#4374db"/><path d="M130 172h14v18h-14z" fill="white"/>
+<circle cx="189" cy="181" r="15" fill="#ecb63c"/><path d="M185 173v16l12-8z" fill="white"/>
+<rect x="70" y="230" width="30" height="26" rx="4" fill="#e5af43"/><path d="M74 226h12l4 6H74z" fill="#e5af43"/>
+<rect x="122" y="230" width="30" height="28" rx="4" fill="#65758d"/><path d="M129 238h16m-16 6h12m-12 6h16" stroke="white" stroke-width="2"/></g>
+<text x="718" y="181" fill="#bce6d8" font-family="Segoe UI,Arial,sans-serif" font-size="18">Managed</text><text x="718" y="207" fill="#9eafc1" font-family="Segoe UI,Arial,sans-serif" font-size="14">Front → Back</text>
+<text x="718" y="247" fill="#b8c8d7" font-family="Segoe UI,Arial,sans-serif" font-size="18">Free windows</text>
+<text x="718" y="291" fill="#8194aa" font-family="Segoe UI,Arial,sans-serif" font-size="12">UI overview · illustrative icons</text>
+</svg>

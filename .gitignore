@@ -1,0 +1,25 @@
+# Personal window titles and local state
+profiles.xml
+profiles.xml.tmp
+*session*.xml
+# Builds and test output
+*.exe
+*.pdb
+*.zip
+test-results.txt
+*-tests.txt
+*.layout.txt
+profile-test-*.xml
+compact-test-settings.xml
+smooth-preview.png
+dist/
+bin/
+obj/
+.vs/
+# Credentials and local editors
+.env
+.env.*
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
